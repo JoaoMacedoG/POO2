@@ -1,0 +1,6 @@
+Nessa ultima publicação foram implementados diversos metodos para votação, buscar informações cadastradas, 
+estados foram adicionados nas urnas, a serialização foi criada( só que não achei um jeito de testa-la,
+acho que não peguei direito seu funcionamento na hora de carrega-la),e diversas outras alterações nas outras classe para 
+adequar aos novos requisitos. A classe de visão não consegui terminar pois foi passada bem rápido
+ semestre passado, e acabei nem correndo atrás.Tentei implementá-la, mas deram alguns erros na 
+ hora de votar  mesmo os testes dando certo. 2º turno e justificativa nao foram feitos.

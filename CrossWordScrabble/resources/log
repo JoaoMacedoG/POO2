@@ -1,0 +1,9 @@
+1ª postagem:
+	Construção basica de como seria feito o jogo, com nome dos metodos e interfaces para auxiliar na hora de programar.
+	
+2ª postagem:
+	Padrão estrategia e singleton adicionados, junto com a classe construtorDeAlfabeto e mudanças na fachada(Crossword).
+	
+3ª postagem:
+	Dicionario adcionado, testes, visão,excecao, diagram de classes, log e ajustes gerais nas outras classes.
+	

@@ -1,0 +1,20 @@
+1- Na 1ª versao decidi a base do projeto. Criei interfaces e decidi como seria feito 
+o projeto.
+
+
+2- Na 2ª, que infelizmente acabei nao selecionando a checkbox e enviei o mesmo projeto da 1ª versão,
+implementei as classes Cidade, Imovel, FachadaAIRBNB e Pessoa. Adicionei a classe reserva e 
+criei exceções e testes.Construi uma interface simples com apenas 3 botões para cadastro de 
+imoveis e usuarios, e o outro para pesquisa. Classe de formularios e tratadores para esses botões
+também foram criadas.
+
+3- Criei uma interface estilo menu, com varios itens de menu. Criei pacotes para algumas classes
+especificas realizarem metodos grandes que seriam usados pela fachada, como modelo.Criador,modelo.Comparadores
+modelo.Filtro. Mais formularios e tratadores foram criados,mais excecoes a classe Reserva foi criada, metodos
+para reserva e para escolher imoveis foram criados na fachada. Diagrama de classe também foi adicionado.
+
+
+4- As reservas apos serializar não funciona; o metodo de comparação retorna false 
+mas as comparações internas retornam true.
+
+5- Erro consertado, integer se usa equals para comparar.
